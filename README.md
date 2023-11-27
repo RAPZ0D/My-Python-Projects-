@@ -9,7 +9,7 @@ A brief introduction or overview of what your project is about.
 - [Features](#features)
 - [Installation](#installation)
 - [About Me](#about-me)
-- [Assignment1](#assignment1)
+- [Assignment 1](#assignment-1)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
