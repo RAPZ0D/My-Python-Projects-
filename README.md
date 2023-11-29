@@ -10,6 +10,7 @@ A brief introduction or overview of what your project is about.
 - [Installation](#installation)
 - [About Me](#about-me)
 - [Lab 1](#lab-1)
+- [Lab 2](#lab-2)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -26,7 +27,7 @@ There are a of packages that I have installed using all my assignments  if you h
 pip install your_package_name ( this is how you install your packages in python) 
 
 ## Lab 1
-My assignment 1 python file consists of basic math questions performed on python, the contents are mentioned below: 
+My Lab 1 python file consists of basic math questions performed on python, the contents are mentioned below: 
 1. Pallindrome
 2. Common elements between 2 lists
 3. Temperature in Farenheit to Celcius
@@ -35,3 +36,16 @@ My assignment 1 python file consists of basic math questions performed on python
 6. Shortest distance between two points
 7. Area of the circle rectangle and triangle using def function
 8. ATM machine
+
+## Lab 2  
+The Lab 2 exercises are again to test basic function calls and math functions, inluding the Object Oriented Pogramming part, also using Modules to call the function from multiple python libraries. The programs that are in the Lab 2 are: 
+1. Functions (List even numbers)
+2. Functions(Area of the triangle)
+3. Functions (Celcius to Farehneit)
+4. Functions (GCD)
+5. OOP (shape of the Rectqangle and Circle
+6. OOP (Animal Brid or Mammal)
+7. Modules ( Basic Arithmetic Operations)
+8. Modules (API request)
+9. Modules ( string_utils)
+10. Modules (File Operations)
