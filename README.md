@@ -9,7 +9,7 @@ A brief introduction or overview of what your project is about.
 - [Features](#features)
 - [Installation](#installation)
 - [About Me](#about-me)
-- [Assignment 1](#assignment-1)
+- [Lab 1](#lab-1)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -25,7 +25,7 @@ Highlight the key features or functionalities of your project.
 There are a of packages that I have installed using all my assignments  if you have any issues you can view it here and download it 
 pip install your_package_name ( this is how you install your packages in python) 
 
-## Assignment 1
+## Lab 1
 My assignment 1 python file consists of basic math questions performed on python, the contents are mentioned below: 
 1. Pallindrome
 2. Common elements between 2 lists
