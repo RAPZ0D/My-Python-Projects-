@@ -8,10 +8,12 @@ A brief introduction or overview of what your project is about.
 
 - [Features](#features)
 - [Installation](#installation)
+- [API](#api)
 - [About Me](#about-me)
 - [Lab 1](#lab-1)
 - [Lab 2](#lab-2)
 - [Lab 3](#lab-3)
+- [Lab 4](#lab-4)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -43,6 +45,18 @@ Libraries I have used is :
 14. tweepy
 
 You can find these libraries using the PYPI Python Package installer [PyPI](https://pypi.org/)
+
+## API 
+I have used different API's for my labs I can share you some of the links where you can read the documentaion and access the api keys, read the documentation well because sometimes you can use their demo api key to see how it actually works 
+
+[Alpha Vantage Documentation](https://www.alphavantage.co/documentation/)
+[World Bank Documents API](https://documents.worldbank.org/en/publication/documents-reports/api)
+[Fake Store API](https://fakestoreapi.com/)
+[OpenWeatherMap API](https://openweathermap.org/api)
+[NASA API](https://api.nasa.gov/)
+[News API](https://newsapi.org/)
+[Dog CEO Dog API](https://dog.ceo/dog-api/)
+
 
 
 ## Lab 1
@@ -77,3 +91,11 @@ In this lab I have performed the tasks mentioned below:
 2. Weather Comparison Tool Part 1
 3. Weather Comparison Tool Part 2
  You can refer the juypter notebook to view the outptus of the code 
+
+## Lab 4 
+In Lab 4 I have focused on connecting to a SQL server using python, for this lab I have used postgres, but you can use any SQL tool that you like. By using the psycopg library I provide the login credentials and connect it.
+In the second step I actually get data from the openweather API and then store it in my Database by creating a table using python 
+In this Lab I have done: 
+1. Connecting to Postgres using the login credintials
+2. Accessing the Openweather API
+3. Storing the data in the Database by creating a table 
