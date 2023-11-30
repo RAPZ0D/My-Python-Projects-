@@ -50,13 +50,18 @@ You can find these libraries using the PYPI Python Package installer [PyPI](http
 I have used different API's for my labs I can share you some of the links where you can read the documentaion and access the api keys, read the documentation well because sometimes you can use their demo api key to see how it actually works 
 
 [Alpha Vantage Documentation](https://www.alphavantage.co/documentation/)
-[World Bank Documents API](https://documents.worldbank.org/en/publication/documents-reports/api)
-[Fake Store API](https://fakestoreapi.com/)
-[OpenWeatherMap API](https://openweathermap.org/api)
-[NASA API](https://api.nasa.gov/)
-[News API](https://newsapi.org/)
-[Dog CEO Dog API](https://dog.ceo/dog-api/)
 
+[World Bank Documents API](https://documents.worldbank.org/en/publication/documents-reports/api)
+
+[Fake Store API](https://fakestoreapi.com/)
+
+[OpenWeatherMap API](https://openweathermap.org/api)
+
+[NASA API](https://api.nasa.gov/)
+
+[News API](https://newsapi.org/)
+
+[Dog CEO Dog API](https://dog.ceo/dog-api/)
 
 
 ## Lab 1
