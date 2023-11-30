@@ -11,6 +11,7 @@ A brief introduction or overview of what your project is about.
 - [About Me](#about-me)
 - [Lab 1](#lab-1)
 - [Lab 2](#lab-2)
+- [Lab 3](#lab-3)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -49,3 +50,12 @@ The Lab 2 exercises are again to test basic function calls and math functions, i
 8. Modules (API request)
 9. Modules ( string_utils)
 10. Modules (File Operations)
+
+## Lab 3
+The Lab 3 focuses on API (Application Programming Interface) here I have used the Openweather API to get the Weather and other outputs relating weather conditions of different cities. This application requires an API to to work so if you would need to know how to get one access the link below
+[OpenWeatherMap API](https://openweathermap.org/api)
+In this lab I have performed the tasks mentioned below: 
+1. Getting the sunrise and sunset of a city where the user inputs the city
+2. Weather Comparison Tool Part 1
+3. Weather Comparison Tool Part 2
+ You can refer the juypter notebook to view the outptus of the code 
