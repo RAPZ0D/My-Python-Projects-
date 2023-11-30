@@ -26,6 +26,23 @@ Highlight the key features or functionalities of your project.
 ## Installation
 There are a of packages that I have installed using all my assignments  if you have any issues you can view it here and download it 
 pip install your_package_name ( this is how you install your packages in python) 
+Libraries I have used is : 
+1. numpy
+2. matplotlib
+3. seaborn
+4. pandas
+5. yfinance
+6. geopandas
+7. geopy
+8. my-sql-connector python
+9. nltk
+10. psycopg2
+11. requests
+12. sqlalchemy
+13. tqdm
+14. tweepy
+You can find these libraries using the PYPI Python Package installer [PyPI](https://pypi.org/)
+
 
 ## Lab 1
 My Lab 1 python file consists of basic math questions performed on python, the contents are mentioned below: 
