@@ -14,6 +14,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 2](#lab-2)
 - [Lab 3](#lab-3)
 - [Lab 4](#lab-4)
+- [Lab 5](#lab-5)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -104,3 +105,13 @@ In this Lab I have done:
 1. Connecting to Postgres using the login credintials
 2. Accessing the Openweather API
 3. Storing the data in the Database by creating a table 
+
+## Lab 5 
+Lab 5 focuses on api call, fetching the data from the API and then storing the useful information in our SQL database, by creating a table. In this Lab I have used Openweather API and FakeStore API to get my data. The things that I have Performed in this lab are mentioned below 
+1. Getting the users name and the first city
+2. Prediction the Temperature of the city
+3. Storing the city and the predicted temperature of the city in a Database by creating a table
+4. Getting the user profile, email and address, and showing which product has the user viewed and have they purchased the item or not
+5. Storing the above functions data in a SQL Database
+6. Product Recommendation according to where the user lives and storing the data in the database
+7. Creating a live store and where the items are sold they get restocked by adding new items
