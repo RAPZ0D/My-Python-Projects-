@@ -15,6 +15,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 3](#lab-3)
 - [Lab 4](#lab-4)
 - [Lab 5](#lab-5)
+- [Lab 6](#lab-6)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -115,3 +116,17 @@ Lab 5 focuses on api call, fetching the data from the API and then storing the u
 5. Storing the above functions data in a SQL Database
 6. Product Recommendation according to where the user lives and storing the data in the database
 7. Creating a live store and where the items are sold they get restocked by adding new items
+
+## Lab 6
+In Lab 6 I am making use of the yfinance library (Yahoo Finance) to get the information about stocks and providing visualization and also storing it locally. In this lab what I have done is : 
+1. Data retrival ( get the value of different stocks)
+2. Save the retrived data locally in the our local computer
+3. Displaying the data correctly and providing Average daily return, Volatility and  Correlation between the sotcks
+4. Finding the moving average of the stocks
+5. Visualizing the socks of Buy signal and Sell signal
+6. Portfolio Allocation
+7. Risk Return Analysis
+8. Sharpe Ratio, Sortino Ratio and Jensen Alpha
+9. Providing a line chart visualization
+10. Investment Recommendations
+11. 
