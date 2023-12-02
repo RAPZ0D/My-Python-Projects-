@@ -129,4 +129,3 @@ In Lab 6 I am making use of the yfinance library (Yahoo Finance) to get the info
 8. Sharpe Ratio, Sortino Ratio and Jensen Alpha
 9. Providing a line chart visualization
 10. Investment Recommendations
-11. 
