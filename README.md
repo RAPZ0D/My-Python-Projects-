@@ -16,6 +16,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 4](#lab-4)
 - [Lab 5](#lab-5)
 - [Lab 6](#lab-6)
+- [Lab 7](#lab-7)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -129,3 +130,11 @@ In Lab 6 I am making use of the yfinance library (Yahoo Finance) to get the info
 8. Sharpe Ratio, Sortino Ratio and Jensen Alpha
 9. Providing a line chart visualization
 10. Investment Recommendations
+
+## Lab 7 
+My Lab 7 consists of Data Retrival from World Bank API call and then accessing Postgres using Python and storing the data in postgres. In this lab I have done the following:
+1. Created a database called world_data and then created tables in it
+2. Using World Bank API and selecting 5 countries ( IND, USA, CAN, GBR, COL)
+3. Inserting the data into the tables in the Database that I created
+4. Tables Include Population, Inflation Rates, and Gross National Income
+5. Visualizations of all the tables 
