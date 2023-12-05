@@ -317,3 +317,4 @@ try:
 except psycopg2.Error as e:
     print("Error connecting to the PostgreSQL database:", e)
 
+
