@@ -18,6 +18,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 6](#lab-6)
 - [Lab 7](#lab-7)
 - [Lab 8](#lab-8)
+- [Lab 9](#lab-9)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -145,3 +146,11 @@ My Lab 8 focuses on Alpha Vantage API, here we are using a new finance API and I
 1. Using the Alpha Vantage API to retrive stocks information
 2. Establishing the MySQL connection using python and storing it in new tables by creating a Database
 3. Providing Visualizations of the stocks 
+
+## Lab 9 
+Lab 9 I have not used any api to fetch data, instead I have used the csv file and then imported the csv file with correct data types and using python inserted it in my database, all using python. Only creating the Database and Table I have used SQL. The insertion of all the values and conversion I have used python. What I have done in this LAB: 
+1. Created a Database and Tables using MySQL
+2. Connected the database using python
+3. Imported the dataset using pandas library and then reviewing all the data in the csv file
+4. Converting the data types and inserting the values accordingly in the tables using python
+5. Finally Creating visualizations by the data inserted 
