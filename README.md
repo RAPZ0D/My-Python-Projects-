@@ -19,6 +19,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 7](#lab-7)
 - [Lab 8](#lab-8)
 - [Lab 9](#lab-9)
+- [Lab 10](#lab-10)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -154,3 +155,10 @@ Lab 9 I have not used any api to fetch data, instead I have used the csv file an
 3. Imported the dataset using pandas library and then reviewing all the data in the csv file
 4. Converting the data types and inserting the values accordingly in the tables using python
 5. Finally Creating visualizations by the data inserted 
+
+## Lab 10 
+This is the final Lab called Lab 10, in this lab I have a csv file and here I have used SQL queries to create database and tables, I am using python to access the csv file and then input the data accordingly in the tables. Steps performed in this lab: 
+1. Writing SQL queries to createa a database and tables
+2. Using Python to access the database ( I have used MySQL here)
+3. Inputting values in the table
+4. Visualization 
