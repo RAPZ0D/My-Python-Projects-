@@ -1,8 +1,5 @@
 # My-Python-Projects-
 These are all my python projects which i completed during my college 
-# My Python Project
-
-A brief introduction or overview of what your project is about.
 
 ## Table of Contents
 
