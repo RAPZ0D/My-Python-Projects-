@@ -20,6 +20,7 @@ A brief introduction or overview of what your project is about.
 - [Lab 8](#lab-8)
 - [Lab 9](#lab-9)
 - [Lab 10](#lab-10)
+- [Practise Lab](#practise-lab)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -162,3 +163,6 @@ This is the final Lab called Lab 10, in this lab I have a csv file and here I ha
 2. Using Python to access the database ( I have used MySQL here)
 3. Inputting values in the table
 4. Visualization 
+
+## Practise Lab 
+My Practise Lab is just a practise and revision about lab 9 and 10 combined, all I have done is get a large csv file and then input the data using python. But i have created the database and tables using SQL queries
