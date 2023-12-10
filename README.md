@@ -18,6 +18,7 @@ These are all my python projects which i completed during my college
 - [Lab 9](#lab-9)
 - [Lab 10](#lab-10)
 - [Practise Lab](#practise-lab)
+- [Self](#self)
 
 ## About Me
 I am currently a student, studying Data Science and I have completed my studies in AI, my goal here is to share my project work so that anyone can view it access it and modify it 
@@ -163,3 +164,6 @@ This is the final Lab called Lab 10, in this lab I have a csv file and here I ha
 
 ## Practise Lab 
 My Practise Lab is just a practise and revision about lab 9 and 10 combined, all I have done is get a large csv file and then input the data using python. But i have created the database and tables using SQL queries
+
+## Self
+The self file contains a practise using alpha vantage api, getting the data and plotting some good visualizations 
